@@ -1,3 +1,4 @@
-writing chapter 3 . I am using the same process that i have used in chapter 2.
+writing chapter 3 . I am using the previous process that i have used in chapter 2.
 to save the things using vim press :w to exit press :q .
 If you press :q with out saving the file the vim editor wont let you quit. If you want to force qquit press :q!. It won't save any changes u have previously.
+bnnjhrjhgh. git diff --color-words filename is more cooler than just git diff filename.
